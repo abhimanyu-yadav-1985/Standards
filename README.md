@@ -8,25 +8,4 @@
 {'Field' : value}
 
 ## Docstring boiler plate
- """
-    Description:
-    ------------
-    
-    Inputs:
-    -------
-    
-    
-    Returns:
-    --------
-    
-    
-    Notes:
-    ------
-    
-    
-    Refereneces:
-    ------------
-    
-    
-    """
-   
+ 
